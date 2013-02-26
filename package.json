@@ -1,5 +1,5 @@
 {
-  "name": "hyper",
+  "name": "node-hyper",
   "version": "0.0.9",
   "description": "An n-dimensional database, written in JavaScript, useful for aggregation and charting analytics.",
   "main": "index.js",
