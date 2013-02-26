@@ -1,0 +1,24 @@
+{
+  "name": "hyper",
+  "version": "0.0.8",
+  "description": "An n-dimensional database, written in JavaScript, useful for aggregation and charting analytics.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thesmart/node-hyper.git"
+  },
+  "keywords": [
+    "hyper",
+    "node-hyper",
+	"analytics",
+    "aggregation",
+    "dimensional",
+    "olap",
+    "cube"
+  ],
+  "author": "John Smart <smartj@gmail.com> (https://github.com/thesmart)",
+  "license": "BSD",
+  "dependencies": {
+    "underscore": "1.4.2"
+  }
+}
